@@ -1,7 +1,11 @@
 #Python is NOT easy - Lessons from SymPy's codebase
 
-### Slides are currently in their draft version
-### Please see the ipynb for examples, explanations and walkthroughs
+## SLIDES ARE READY 
+## PLEASE OPEN THE .html FILES N YOUR BROWSER
+#### To genereate the slides from the notebook use:
+jupyter nbconvert python_is_NOT_easy_examples.ipynb --to slides --post serve
+
+--------------------
 
 Python is generally considered an easy to use language and generally speaking, does not surprise the user and is known for being predictable. Even when one uses libraries in Python, one can generally predict how the library functions would behave or even be named with some experience. 
 
